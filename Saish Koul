@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Saish Koul</title>
+</head>
+<style>
+.me{
+text-size: 18;
+background-color: blue;
+font-family: Times-New-Roman;
+color: tomato;
+border-style: double;
+border-width: 5px;
+margin: 30px;
+text-align: center;
+}
+.inverse{
+text-size: 52;
+background-color: Tomato;
+font-family: Arial;
+color: blue;
+border-style: solid;
+border-width: 5px;
+margin: 30px;
+text-align: center;
+}
+</style>
+<body style="background-color:darkgreen;">
+<div class="inverse">
+<h1>All About Saish Koul</h1>
+</div>
+<div class="me">
+<p>My name is Saish Koul, I'm a 10 year old, turning eleven. 
+I have a really diverse interest, and love a whole lot of things.
+ Down below, there is a bunch of bullets for the things I like.</p>
+<p> First up is favorite sports.</p>
+<br>
+ <ul>
+ <li>Cricket</li>
+  <li>Soccer</li>
+   <li>Badminton</li>
+</ul>
+</div>
+<br>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Badminton-1428046.jpg/1200px-Badminton-1428046.jpg"width="595" height="429">
+<br>
+<div class="me">
+<p>Next up are my favorite things. (Toys, card-games, books, videogames)</p>
+<ul>
+ <li>Beyblades (a toy)</li>
+  <li>The heroes of Olymupus (a beautiful book series)</li>
+    <li>Yohoho.io, and many other io games (videogames)</li>
+</ul>
+</div>
+<br>
+<img src= "https://kbimages1-a.akamaihd.net/79f238b3-a558-46ec-ac44-01d075bb0f9f/1200/1200/False/lost-hero-the-heroes-of-olympus-the-book-one.jpg" width="429" height="625">
+<div class="me">
+<p>So this is all I can tell anyone about me... so I loved meeting you all, and see you later!<br><br><br>Bye!!!</p>
+</div>
+</body>
+</html>
